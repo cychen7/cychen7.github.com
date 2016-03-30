@@ -1,0 +1,21 @@
+.heading {
+  width: 260px;
+  margin: 0 auto 10px;
+}
+
+.heading .user-pic {
+  display: table-cell;
+  padding-right: 10px;
+  vertical-align: middle;
+}
+
+.heading .user-pic img {
+  width: 90px;
+  height: 90px;
+}
+
+.heading .base-info {
+  display: table-cell;
+  width: 150px;
+  vertical-align: top;
+}
