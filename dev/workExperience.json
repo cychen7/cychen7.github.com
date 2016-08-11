@@ -124,12 +124,12 @@
         "start": "2016/04",
         "end": "2016/08",
         "post": "web前段开发工程师",
-        "jobDuties": "",
+        "jobDuties": "主要负责web前端的编码、验收、交付。",
         "projectItems": [
                     {
                 "projectName": "校园一卡通系统",
-                "startDate": "2016-08-08",
-                "endDate": "2016-08-16",
+                "startDate": "2016/08/08",
+                "endDate": "2016/08/16",
                 "runEnvironment": "Android、ipad等移动设备",
                 "devTools": "atom、gulp、sass、nodejs、svn等",
                 "projectDesc": "校园卡是将广大师生与智慧校园有机连接在一起的最有效的媒介，实现"一卡在手，走遍校园"，是校园信息化的主要标志之一。移动端主要是展示考勤信息、考勤统计、消费记录、消费统计等。",
@@ -137,8 +137,8 @@
             },
             {
                 "projectName": "智慧校园WEB门户",
-                "startDate": "2016-07-14",
-                "endDate": "2016-08-01",
+                "startDate": "2016/07/14",
+                "endDate": "2016/08/01",
                 "runEnvironment": "",
                 "devTools": "atom、gulp、sass、nodejs、svn等",
                 "projectDesc": "  智慧校园云平台主要为学校打造独立的云平台系统，解决校园建设中的系统分离，管理杂乱等基础问题，并通过统一平台、应用开发接入以及大数据分析等来支撑学校校园管理、学习、教研、活动、生活等一系列范围，达到校园智慧。从而实现天闻智慧校园的建设方案。 ",
@@ -146,8 +146,8 @@
             },
             {
                 "projectName": "教育云门户优化",
-                "startDate": "2016-07-6",
-                "endDate": "2016-07-11",
+                "startDate": "2016/07/6",
+                "endDate": "2016/07/11",
                 "runEnvironment": "",
                 "devTools": "atom、gulp、sass、nodejs、svn等",
                 "projectDesc": "围绕教务、政务、资源、运营、教学、应用、统计分析这些角度提供门户级的教育云首页。让用户感知到全区的最新新闻动态、各个学校的教学进展、学校间资源共建共享的氛围以及这些动作做完后，让用户可以看到对应的分析统计数据。",
