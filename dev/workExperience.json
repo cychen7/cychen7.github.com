@@ -126,6 +126,33 @@
         "post": "web前段开发工程师",
         "jobDuties": "",
         "projectItems": [
+                    {
+                "projectName": "校园一卡通系统",
+                "startDate": "2016-08-08",
+                "endDate": "2016-08-16",
+                "runEnvironment": "Android、ipad等移动设备",
+                "devTools": "atom、gulp、sass、nodejs、svn等",
+                "projectDesc": "校园卡是将广大师生与智慧校园有机连接在一起的最有效的媒介，实现"一卡在手，走遍校园"，是校园信息化的主要标志之一。移动端主要是展示考勤信息、考勤统计、消费记录、消费统计等。",
+                "duty": "<P>我负责的是完成移动端页面；项目主要使用zepto.js和m.sui框架。</p>"
+            },
+            {
+                "projectName": "智慧校园WEB门户",
+                "startDate": "2016-07-14",
+                "endDate": "2016-08-01",
+                "runEnvironment": "",
+                "devTools": "atom、gulp、sass、nodejs、svn等",
+                "projectDesc": "  智慧校园云平台主要为学校打造独立的云平台系统，解决校园建设中的系统分离，管理杂乱等基础问题，并通过统一平台、应用开发接入以及大数据分析等来支撑学校校园管理、学习、教研、活动、生活等一系列范围，达到校园智慧。从而实现天闻智慧校园的建设方案。 ",
+                "duty": "<P>我负责该项目的web前端编码。项目使用boostrap和jquery框架。图表分析使用了echart.js插件，css部分使用了scss预编译语言，前端构建使用了gulp。</p>"
+            },
+            {
+                "projectName": "教育云门户优化",
+                "startDate": "2016-07-6",
+                "endDate": "2016-07-11",
+                "runEnvironment": "",
+                "devTools": "atom、gulp、sass、nodejs、svn等",
+                "projectDesc": "围绕教务、政务、资源、运营、教学、应用、统计分析这些角度提供门户级的教育云首页。让用户感知到全区的最新新闻动态、各个学校的教学进展、学校间资源共建共享的氛围以及这些动作做完后，让用户可以看到对应的分析统计数据。",
+                "duty": "<p>我主要是参与的是第三期的优化页面。重新开发编写了不同角色对应的页面。项目使用了boostrap和jquery框架，以及前端自动化构建框架gulp。</p>"
+            }
         ]
     }
 ]
